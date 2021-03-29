@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: "Lobster", cursive;
+}
+
+a {
+  color: aqua;
+}
+
+#header {
+  background-color: grey;
+}
+
+ul {
+  display: inline;
+}
+
+ul li {
+  display: inline;
+}
+
+#myButton {
+  background-color: transparent;
+  border-radius: 28px;
+  border: 1px solid #18ab29;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #ebebeb;
+}
+#myButton:hover {
+  background-color: transparent;
+}
+#myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+footer {
+  background-color: green;
+}
